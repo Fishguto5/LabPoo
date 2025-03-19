@@ -1,4 +1,5 @@
-package polimorfismo;
+package polimorfismo.projeto1;
+
 import java.util.ArrayList;
 
 public abstract class Empregados {

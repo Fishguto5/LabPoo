@@ -1,4 +1,4 @@
-package polimorfismo;
+package polimorfismo.projeto1;
 
 public class EmpregadoHorista extends Empregados {
     private int salarioHora;

@@ -1,6 +1,6 @@
-package polimorfismo;
+package polimorfismo.projeto1;
 
-public class EmpregadoMenal extends Empregados{
+public class EmpregadoMenal extends Empregados {
     private int salarioMensal;
     private double encargosTrabalhistas;
     EmpregadoMenal(int salarioMensal, double encargosTrabalhistas){
